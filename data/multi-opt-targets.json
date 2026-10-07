@@ -47395,6 +47395,22 @@
         },
         {
           "isEmpty": true,
+          "key": "nodeC6Stellarswirl_dmgIncDisp",
+          "label": {
+            "en": "stellarswirl_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "constellation6",
+            "nodeC6Stellarswirl_dmgIncDisp"
+          ],
+          "section": "constellation6",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": true,
           "key": "burstArcaneProjectionDmg",
           "label": {
             "en": "nicole.burstArcaneProjectionDmg"
@@ -59361,6 +59377,1346 @@
           ],
           "section": "constellation2",
           "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "burstArcaneProjectionDmg",
+          "label": {
+            "en": "nicole.burstArcaneProjectionDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "nicole",
+            "burstArcaneProjectionDmg"
+          ],
+          "section": "nicole",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "c1ArcaneProjectionUnityDmg",
+          "label": {
+            "en": "nicole.c1ArcaneProjectionUnityDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "nicole",
+            "c1ArcaneProjectionUnityDmg"
+          ],
+          "section": "nicole",
+          "unit": null,
+          "variant": null
+        }
+      ]
+    },
+    {
+      "characterKey": "Vesna",
+      "sheetKey": "Vesna",
+      "targets": [
+        {
+          "isEmpty": true,
+          "key": "lunarcharged_dmg_",
+          "label": {
+            "en": "moonsign.lunarcharged_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarcharged_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "lunarbloom_dmg_",
+          "label": {
+            "en": "moonsign.lunarbloom_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarbloom_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "lunarcrystallize_dmg_",
+          "label": {
+            "en": "moonsign.lunarcrystallize_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarcrystallize_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "electroSwirl",
+          "label": {
+            "en": "electro_swirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "electroSwirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "swirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "pyroSwirl",
+          "label": {
+            "en": "pyro_swirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "pyroSwirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "swirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "cryoSwirl",
+          "label": {
+            "en": "cryo_swirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "cryoSwirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "swirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "hydroSwirl",
+          "label": {
+            "en": "hydro_swirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "hydroSwirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "swirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "overloaded",
+          "label": {
+            "en": "overloaded_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "overloaded"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "overloaded"
+        },
+        {
+          "isEmpty": false,
+          "key": "electrocharged",
+          "label": {
+            "en": "electrocharged_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "electrocharged"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "electrocharged"
+        },
+        {
+          "isEmpty": false,
+          "key": "lunarcharged",
+          "label": {
+            "en": "lunarcharged_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "lunarcharged"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "lunarcharged"
+        },
+        {
+          "isEmpty": false,
+          "key": "superconduct",
+          "label": {
+            "en": "superconduct_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "superconduct"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "superconduct"
+        },
+        {
+          "isEmpty": false,
+          "key": "shattered",
+          "label": {
+            "en": "shattered_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "shattered"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "shattered"
+        },
+        {
+          "isEmpty": false,
+          "key": "burning",
+          "label": {
+            "en": "burning_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "burning"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "burning"
+        },
+        {
+          "isEmpty": false,
+          "key": "bloom",
+          "label": {
+            "en": "bloom_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "bloom"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "bloom"
+        },
+        {
+          "isEmpty": false,
+          "key": "burgeon",
+          "label": {
+            "en": "burgeon_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "burgeon"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "burgeon"
+        },
+        {
+          "isEmpty": false,
+          "key": "hyperbloom",
+          "label": {
+            "en": "hyperbloom_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "hyperbloom"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "hyperbloom"
+        },
+        {
+          "isEmpty": false,
+          "key": "lunarcrystallize",
+          "label": {
+            "en": "lunarcrystallize_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "lunarcrystallize"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "lunarcrystallize"
+        },
+        {
+          "isEmpty": false,
+          "key": "stellarswirl",
+          "label": {
+            "en": "stellarswirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "stellarswirl_vortex1",
+          "label": {
+            "en": "stellarswirl_vortex1_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl_vortex1"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "stellarswirl_vortex2",
+          "label": {
+            "en": "stellarswirl_vortex2_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl_vortex2"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "0",
+          "label": {
+            "en": "normal.0"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "0"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "1",
+          "label": {
+            "en": "normal.1"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "1"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "2",
+          "label": {
+            "en": "normal.2"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "2"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "3",
+          "label": {
+            "en": "normal.3"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "3"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "4",
+          "label": {
+            "en": "normal.4"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "4"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "5",
+          "label": {
+            "en": "normal.5"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "5"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "dmg",
+          "label": {
+            "en": "charged.dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "charged",
+            "dmg"
+          ],
+          "section": "charged",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "dmg",
+          "label": {
+            "en": "plunging.dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "dmg"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "low",
+          "label": {
+            "en": "plunging.low"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "low"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "high",
+          "label": {
+            "en": "plunging.high"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "high"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "skillDmg",
+          "label": {
+            "en": "skill.skillDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "skillDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "sword1Dmg",
+          "label": {
+            "en": "skill.sword1Dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword1Dmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "sword2Dmg",
+          "label": {
+            "en": "skill.sword2Dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword2Dmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "sword2SpiritDmg",
+          "label": {
+            "en": "skill.sword2SpiritDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword2SpiritDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "sword3SpiritDmg",
+          "label": {
+            "en": "skill.sword3SpiritDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword3SpiritDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "sword3SpiritFinalDmg",
+          "label": {
+            "en": "skill.sword3SpiritFinalDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword3SpiritFinalDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "sword2SpiritStellarswirlDmg",
+          "label": {
+            "en": "skill.sword2SpiritStellarswirlDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword2SpiritStellarswirlDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "sword3SpiritStellarswirlDmg",
+          "label": {
+            "en": "skill.sword3SpiritStellarswirlDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword3SpiritStellarswirlDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "sword3SpiritFinalStellarswirlDmg",
+          "label": {
+            "en": "skill.sword3SpiritFinalStellarswirlDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "sword3SpiritFinalStellarswirlDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "windPinionDmg",
+          "label": {
+            "en": "skill.windPinionDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "windPinionDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "spiritDmg",
+          "label": {
+            "en": "burst.spiritDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "burst",
+            "spiritDmg"
+          ],
+          "section": "burst",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "spiritStellarswirlDmg",
+          "label": {
+            "en": "burst.spiritStellarswirlDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "burst",
+            "spiritStellarswirlDmg"
+          ],
+          "section": "burst",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "transposeDmg",
+          "label": {
+            "en": "constellation6.transposeDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "constellation6",
+            "transposeDmg"
+          ],
+          "section": "constellation6",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "swordDmg",
+          "label": {
+            "en": "constellation6.swordDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "constellation6",
+            "swordDmg"
+          ],
+          "section": "constellation6",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "swordStellarswirlDmg",
+          "label": {
+            "en": "constellation6.swordStellarswirlDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "constellation6",
+            "swordStellarswirlDmg"
+          ],
+          "section": "constellation6",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "burstArcaneProjectionDmg",
+          "label": {
+            "en": "nicole.burstArcaneProjectionDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "nicole",
+            "burstArcaneProjectionDmg"
+          ],
+          "section": "nicole",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "c1ArcaneProjectionUnityDmg",
+          "label": {
+            "en": "nicole.c1ArcaneProjectionUnityDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "nicole",
+            "c1ArcaneProjectionUnityDmg"
+          ],
+          "section": "nicole",
+          "unit": null,
+          "variant": null
+        }
+      ]
+    },
+    {
+      "characterKey": "Vodyanitsa",
+      "sheetKey": "Vodyanitsa",
+      "targets": [
+        {
+          "isEmpty": true,
+          "key": "lunarcharged_dmg_",
+          "label": {
+            "en": "moonsign.lunarcharged_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarcharged_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "lunarbloom_dmg_",
+          "label": {
+            "en": "moonsign.lunarbloom_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarbloom_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "lunarcrystallize_dmg_",
+          "label": {
+            "en": "moonsign.lunarcrystallize_dmg_"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "moonsign",
+            "lunarcrystallize_dmg_"
+          ],
+          "section": "moonsign",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "electrocharged",
+          "label": {
+            "en": "electrocharged_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "electrocharged"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "electrocharged"
+        },
+        {
+          "isEmpty": false,
+          "key": "lunarcharged",
+          "label": {
+            "en": "lunarcharged_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "lunarcharged"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "lunarcharged"
+        },
+        {
+          "isEmpty": false,
+          "key": "shattered",
+          "label": {
+            "en": "shattered_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "shattered"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "shattered"
+        },
+        {
+          "isEmpty": false,
+          "key": "bloom",
+          "label": {
+            "en": "bloom_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "bloom"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "bloom"
+        },
+        {
+          "isEmpty": true,
+          "key": "overloaded",
+          "label": {
+            "en": "overloaded_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "overloaded"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "overloaded"
+        },
+        {
+          "isEmpty": true,
+          "key": "superconduct",
+          "label": {
+            "en": "superconduct_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "superconduct"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "superconduct"
+        },
+        {
+          "isEmpty": true,
+          "key": "burning",
+          "label": {
+            "en": "burning_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "burning"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "burning"
+        },
+        {
+          "isEmpty": true,
+          "key": "burgeon",
+          "label": {
+            "en": "burgeon_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "burgeon"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "burgeon"
+        },
+        {
+          "isEmpty": true,
+          "key": "hyperbloom",
+          "label": {
+            "en": "hyperbloom_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "hyperbloom"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "hyperbloom"
+        },
+        {
+          "isEmpty": false,
+          "key": "lunarcrystallize",
+          "label": {
+            "en": "lunarcrystallize_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "lunarcrystallize"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "lunarcrystallize"
+        },
+        {
+          "isEmpty": true,
+          "key": "stellarswirl",
+          "label": {
+            "en": "stellarswirl_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": true,
+          "key": "stellarswirl_vortex1",
+          "label": {
+            "en": "stellarswirl_vortex1_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl_vortex1"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": true,
+          "key": "stellarswirl_vortex2",
+          "label": {
+            "en": "stellarswirl_vortex2_hit"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "reaction",
+            "stellarswirl_vortex2"
+          ],
+          "section": "reaction",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": false,
+          "key": "0",
+          "label": {
+            "en": "normal.0"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "0"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "1",
+          "label": {
+            "en": "normal.1"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "1"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "2",
+          "label": {
+            "en": "normal.2"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "2"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "3",
+          "label": {
+            "en": "normal.3"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "normal",
+            "3"
+          ],
+          "section": "normal",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "dmg",
+          "label": {
+            "en": "charged.dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "charged",
+            "dmg"
+          ],
+          "section": "charged",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "dmg",
+          "label": {
+            "en": "plunging.dmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "dmg"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "low",
+          "label": {
+            "en": "plunging.low"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "low"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "high",
+          "label": {
+            "en": "plunging.high"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "plunging",
+            "high"
+          ],
+          "section": "plunging",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "skillDmg",
+          "label": {
+            "en": "skill.skillDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "skillDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "hornDmg",
+          "label": {
+            "en": "skill.hornDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "skill",
+            "hornDmg"
+          ],
+          "section": "skill",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": false,
+          "key": "skillDmg",
+          "label": {
+            "en": "burst.skillDmg"
+          },
+          "labelSource": "path",
+          "multi": null,
+          "path": [
+            "burst",
+            "skillDmg"
+          ],
+          "section": "burst",
+          "unit": null,
+          "variant": null
+        },
+        {
+          "isEmpty": true,
+          "key": "a4LeadVocal_hydro_dmgIncDisp",
+          "label": {
+            "en": "hydro_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4LeadVocal_hydro_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "hydro"
+        },
+        {
+          "isEmpty": true,
+          "key": "a4LeadVocal_cryo_dmgIncDisp",
+          "label": {
+            "en": "cryo_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4LeadVocal_cryo_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "cryo"
+        },
+        {
+          "isEmpty": true,
+          "key": "a4LeadVocal_stellarswirl_dmgIncDisp",
+          "label": {
+            "en": "stellarswirl_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4LeadVocal_stellarswirl_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": true,
+          "key": "a4Chorus_hydro_dmgIncDisp",
+          "label": {
+            "en": "hydro_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4Chorus_hydro_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "hydro"
+        },
+        {
+          "isEmpty": true,
+          "key": "a4Chorus_cryo_dmgIncDisp",
+          "label": {
+            "en": "cryo_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4Chorus_cryo_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "cryo"
+        },
+        {
+          "isEmpty": true,
+          "key": "a4Chorus_stellarswirl_dmgIncDisp",
+          "label": {
+            "en": "stellarswirl_dmgInc"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "passive2",
+            "a4Chorus_stellarswirl_dmgIncDisp"
+          ],
+          "section": "passive2",
+          "unit": "",
+          "variant": "stellarswirl"
+        },
+        {
+          "isEmpty": true,
+          "key": "c1Heal_atk",
+          "label": {
+            "en": "atk"
+          },
+          "labelSource": "info.path",
+          "multi": null,
+          "path": [
+            "constellation1",
+            "c1Heal_atk"
+          ],
+          "section": "constellation1",
+          "unit": "",
           "variant": null
         },
         {
