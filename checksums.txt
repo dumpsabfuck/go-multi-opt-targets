@@ -1,4 +1,4 @@
 0c8cae00cb8c7385fdde73728e92ca651483f7c5a1f4c0939b6de613576f32d3  data/multi-opt-targets.json
 59d9d9926113e2490a681d2f410e6ab4e506e62574d857f0ef1610f0dab28152  data/multi-opt-targets.min.json
-da98fc5a20cfbf996812ae7164504b36bbd8a5efdbd50b3a6761b495fb41152e  data/metadata.json
+db566af34cdce2a402dca0e9dc6b9748ca52a0719c521258a20faf3b20c72feb  data/metadata.json
 5463d2182447512dc61e2d62f0084875c7e218efdb59b43af202aaf9c5dba4b8  data/schema.json
