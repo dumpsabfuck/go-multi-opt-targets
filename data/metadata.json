@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T05:20:24.089Z",
+  "generatedAt": "2026-11-17T05:20:25.786Z",
   "genshinOptimizer": {
     "repository": "frzyc/genshin-optimizer",
-    "commit": "916e46d14d1031c9188a6122f045f3308b0a1f37",
+    "commit": "e7d56acb5cb0c165b0d54b35cbb8c779dea8e8ad",
     "version": "10.40.0"
   },
   "characterCount": 137,
